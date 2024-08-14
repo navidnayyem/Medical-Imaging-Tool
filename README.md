@@ -1,7 +1,5 @@
 # Medical-Imaging-Tool
 
-# Project 1: Medical Imaging Tool
-
 ## Overview
 
 This project involves designing a Neural Network to classify healthy and non-healthy (with Tuberculosis (TB) manifestations) chest X-rays. The model is designed to differentiate between TB and No-TB cases.
